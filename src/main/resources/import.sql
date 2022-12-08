@@ -1,0 +1,14 @@
+INSERT INTO DESTINY(id, cod, name, address, city, postal_code) VALUES (1, 1, 'MERCADONA_ESPANIA', 'Calle Desengaño 1', 'MADRID', '28000');
+INSERT INTO DESTINY(id, cod, name, address, city, postal_code) VALUES (2, 2, 'MERCADONA_ESPANIA', 'Calle Desengaño 2', 'MADRID', '28000');
+INSERT INTO DESTINY(id, cod, name, address, city, postal_code) VALUES (3, 3, 'MERCADONA_ESPANIA', 'Calle Desengaño 3', 'MADRID', '28000');
+INSERT INTO DESTINY(id, cod, name, address, city, postal_code) VALUES (4, 4, 'MERCADONA_ESPANIA', 'Calle Desengaño 4', 'MADRID', '28000');
+INSERT INTO DESTINY(id, cod, name, address, city, postal_code) VALUES (5, 5, 'MERCADONA_ESPANIA', 'Calle Desengaño 5', 'MADRID', '28000');
+INSERT INTO DESTINY(id, cod, name, address, city, postal_code) VALUES (6, 6, 'MERCADONA_PORTUGAL', 'Calle do luz 1', 'LISBOA', '1000');
+INSERT INTO DESTINY(id, cod, name, address, city, postal_code) VALUES (8, 8, 'ALMACENES', 'Calle Palmera 5', 'SEVILLA', '41700');
+INSERT INTO DESTINY(id, cod, name, address, city, postal_code) VALUES (9, 9, 'MERCADONA_OFICINAS', 'Calle Mediterraneo 1', 'VALENCIA', '46000');
+INSERT INTO DESTINY(id, cod, name, address, city, postal_code) VALUES (10, 0, 'COLMENAS', 'Calle Atlantico 1', 'VALENCIA', '46000');
+INSERT INTO PROVIDER(id, cod, name, email) VALUES (1, 8437008, 'HACENDADO', 'provider1@gmail.com');
+INSERT INTO PROVIDER(id, cod, name, email) VALUES (2, 8480000, 'NESTLE', 'provider2@gmail.com');
+INSERT INTO PRODUCT(id, cod, name, description) VALUES (1, 45905, 'PAN_REBANADA', 'Lorem ipsum');
+INSERT INTO PRODUCT(id, cod, name, description) VALUES (2, 16007, 'FLAN', 'Lorem ipsum');
+INSERT INTO USER(id, username, password) VALUES (1, 'admin', 'admin');
